@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="15px" viewBox="0 0 11 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="BROKER" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1336.000000, -835.000000)" id="Group-19">
+            <g transform="translate(1328.000000, 830.000000)">
+                <g id="ic_location_on_24px" transform="translate(5.000000, 4.000000)">
+                    <path d="M8.5,1.41666667 C5.75875,1.41666667 3.54166667,3.63375 3.54166667,6.375 C3.54166667,10.09375 8.5,15.5833333 8.5,15.5833333 C8.5,15.5833333 13.4583333,10.09375 13.4583333,6.375 C13.4583333,3.63375 11.24125,1.41666667 8.5,1.41666667 Z M8.5,8.14583333 C7.5225,8.14583333 6.72916667,7.3525 6.72916667,6.375 C6.72916667,5.3975 7.5225,4.60416667 8.5,4.60416667 C9.4775,4.60416667 10.2708333,5.3975 10.2708333,6.375 C10.2708333,7.3525 9.4775,8.14583333 8.5,8.14583333 Z" id="Shape" fill="#008BFF" fill-rule="nonzero"></path>
+                    <polygon id="Shape" points="0 0 17 0 17 17 0 17"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

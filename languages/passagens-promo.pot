@@ -1,0 +1,72 @@
+# Copyright (C) 2018 Passagens Promo
+# This file is distributed under the same license as the Passagens Promo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Passagens Promo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/passagens-promo\n"
+"POT-Creation-Date: 2018-02-28 18:42:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  passagens-promos.pot (Passagens Promo 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-passagens-promo-admin.php:111
+#: admin/class-passagens-promo-admin.php:112
+msgid "Passagens Promo"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:132
+msgid "Geral"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:139
+msgid "Id de Afiliado"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:148
+msgid "Visualização dos Shortcodes"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:157
+msgid "Adicionar Logo do PassagensPromo ao final do Shortcode"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:167
+msgid "Configure o seu Id de Afiliado disponibilizado no momento do Cadastro"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:196
+#: admin/class-passagens-promo-admin.php:223
+msgid "Habilitar"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:205
+#: admin/class-passagens-promo-admin.php:232
+msgid "Desabilitar"
+msgstr ""
+
+#: admin/class-passagens-promo-admin.php:247
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/passagens-promo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Este é um plugin para afiliados do Passagens Promo. Você poderá enriquecer "
+"matérias com preços de voos que são atualizados o tempo todo"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "2XT"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.passagenspromo.com.br/"
+msgstr ""
